@@ -2,6 +2,8 @@
   --error: #ff0000;
   --primary: #000000;
   --primary-light: #c9c9c9;
+
+  --f-m: 4rem;
 }
 
 ::selection {

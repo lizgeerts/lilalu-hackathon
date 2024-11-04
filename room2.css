@@ -1,0 +1,28 @@
+.room2{
+  display: grid;
+  place-content: center;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  position: relative;
+}
+
+.number{
+  grid-template-columns: 1;
+  grid-template-rows: 1;
+  position: absolute;
+  margin: 4.4rem 0 0 5rem;
+  font-size: var(--f-m);
+  z-index: -1;
+}
+
+.grid-img:hover{
+  opacity: 0;
+}
+
+.grid-img{
+  transition: opacity 0.3s ease-in-out;
+}
