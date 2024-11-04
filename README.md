@@ -7,6 +7,7 @@
 # description
 
 Try to find the right code to git out of here. There are 4 rooms with each a hidden number somewhere. Are you smart enough to find them and crack the code?
+https://lizgeerts.github.io/lilalu-hackathon/
 
 # screenshots
 
